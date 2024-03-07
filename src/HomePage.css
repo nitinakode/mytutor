@@ -1,0 +1,40 @@
+.companyName {
+    color: #fff;
+  }
+  
+  .hero {
+    background-color: #f0f0f0;
+    padding: 3rem;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+  }
+  
+  .button {
+    margin-top: 2rem;
+  }
+  
+  .image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .featureItem {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #fff;
+    color: #333;
+    border-radius: 10px;
+  }
+  
+  .featureIcon {
+    font-size: 3rem;
+    color: #1976d2;
+    margin-bottom: 1rem;
+  }
+  
+  .footer {
+    background-color: #f0f0f0;
+    padding: 1rem 0;
+  }
+  
